@@ -13,7 +13,8 @@ public class DemoApplication {
 		System.out.println("user2");
 		System.out.println("master");
 
-		System.out.println("競合させます");
+
+		System.out.println("マスター競合");
 	}
 
 }
