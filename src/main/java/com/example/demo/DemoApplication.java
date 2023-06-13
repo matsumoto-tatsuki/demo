@@ -11,6 +11,7 @@ public class DemoApplication {
 
 		System.out.println("Hello World");
 		System.out.println("user2");
+		System.out.println("master");
 	}
 
 }
